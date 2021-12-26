@@ -2,10 +2,9 @@
 Hi, i'm André Luís 👋! 
 </h1>
 
-<h4>
-About me:
 
- 
+About me:
+<h4> 
 - 💻 I’m currently working at Cadastra
 - 📝 I’m currently learning about Full-Stack Development, Digital Skills
 - 🚀 I'm a student of Energy Engineering at UFRGS 
