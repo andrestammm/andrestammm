@@ -8,3 +8,6 @@ Hi, i'm André Luís 👋!
 - 🚀 I'm a student of Energy Engineering at UFRGS 
 - 👯 How to reach me on: linkedln, instagram
 
+
+
+🚀 Always learning!
