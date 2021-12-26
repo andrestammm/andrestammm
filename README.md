@@ -1,7 +1,7 @@
 <h1>
-Hi, i'm André Luís 👋! 
+Hi, i'm André Luís! 👋 
 </h1>
-
+* * *
 <ul>
 <h3><strong>About me:</strong></h3>
   <li>💻 I’m currently working at Cadastra</li>
