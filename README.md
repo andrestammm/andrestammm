@@ -1,10 +1,9 @@
 <h1>
-Hi 👋, i'm André Luís! 
+Hi, i'm André Luís 👋! 
 </h1>
 
 
 - 💻 I’m currently working at Cadastra
-- 📝 I’m currently learning about Full-Stack Development, 
+- 📝 I’m currently learning about Full-Stack Development, Digital Skills
+- 🚀 I'm a student of Energy Engineering at UFRGS 
 - 👯 How to reach me on: linkedln, instagram
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
