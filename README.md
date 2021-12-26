@@ -5,7 +5,7 @@
 <li>💻 I’m currently working at <a href="https://cadastra.com/en/">Cadastra</a></li>
 <li>📊 I’m currently learning about Full-Stack Development, Digital Skills</li>
 <li>⚡ I'm a student of Energy Engineering at <a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a></li>
-<li>📝 How to reach me:<a href="https://www.linkedin.com/in/andre-luis-stamm/"> Linkedln,</a><a href="https://www.instagram.com/andrestammm/"> Instagram</a></li>
+<li>📝 How to reach me:<a href="https://www.linkedin.com/in/andre-luis-stamm/"> Linkedln,</a><a href="https://www.instagram.com/andrestammm/"> Instagram, </a><a href="https://www.youtube.com/channel/UCfDr-lbUKXdlYat9qZHzR1g">Youtube Channel</a></li>
 
 
 
