@@ -10,4 +10,7 @@ Hi, i'm André Luís 👋!
 
 
 
+
+
+[oii](https://www.linkedin.com/in/andre-luis-stamm/)
 🚀 Always learning!
