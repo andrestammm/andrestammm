@@ -7,3 +7,4 @@ Hi, i'm André Luís 👋!
 - 📝 I’m currently learning about Full-Stack Development, Digital Skills
 - 🚀 I'm a student of Energy Engineering at UFRGS 
 - 👯 How to reach me on: linkedln, instagram
+
