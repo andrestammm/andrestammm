@@ -8,7 +8,3 @@ Hi 👋, i'm André Luís!
 - 👯 How to reach me on: linkedln, instagram
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
-<a>
-  oiiii src="https://www.google.com/search?client=opera-gx&q=tradutor&sourceid=opera&ie=UTF-8&oe=UTF-8"
-</a>
