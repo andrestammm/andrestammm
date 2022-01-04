@@ -1,7 +1,7 @@
 **<h1>Oii, sou o André Luís! 👋</h1>**
 
 
-**<h2>About me:</h2>**
+**<h2>Sobre mim:</h2>**
 <li>💻 Eu estou atualmente trabalhando na <a href="https://cadastra.com/en/">Cadastra</a></li>
 <li>📊 No momento estudo as áreas de Full-Stack Development, Digital Skills</li>
 <li>⚡ Graduando de Engenharia de Energia na <a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a></li>
