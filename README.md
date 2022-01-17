@@ -6,7 +6,10 @@
 <li>📊 No momento estudo as áreas de Full-Stack Development, Digital Skills</li>
 <li>📊 Entusiasta de Mercado Financeiro, Finanças e Economia</li>
 <li>⚡ Graduando de Engenharia de Energia na <a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a></li>
-<li>📝 Como você pode me achar:<div><a href="https://www.youtube.com/channel/UCfDr-lbUKXdlYat9qZHzR1g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/andrestammm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/andre-luis-stamm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<li>📝 Como você pode me achar:<div>
+  <a href="https://www.youtube.com/channel/UCfDr-lbUKXdlYat9qZHzR1g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/andrestammm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andre-luis-stamm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></li>
 
 
@@ -23,6 +26,7 @@
   <img align="center" alt="Andre-FireBase" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Andre-MySQL" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
 
 
 <br><br>
