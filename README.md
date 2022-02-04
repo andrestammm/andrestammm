@@ -3,7 +3,7 @@
 
 **<h2>Sobre mim:</h2>**
 <li>💻 Estou atualmente trabalhando como Data Engineer JR na <a href="https://cadastra.com/en/">Cadastra</a></li>
-<li>📊 Busco alinhar experiências nas áreas de Full-Stack Development & Digital Analytics</li>
+<li>📊 Busco alinhar experiências nas áreas de Data Cloud, Digital Analytics e Full-Stack</li>
 <li>📊 Entusiasta de Mercado Financeiro, Finanças e Economia</li>
 <li>⚡ Graduando de Engenharia de Energia na <a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a></li>
 <li>📝 Como você pode me achar:<div>
