@@ -5,7 +5,7 @@
 <li>💻 Estou atualmente trabalhando como Data Engineer JR na <a href="https://cadastra.com/en/">Cadastra</a></li>
 <li>📊 Busco alinhar experiências nas áreas de Data Cloud, Digital Analytics e Full-Stack</li>
 <li>📊 Entusiasta de Mercado Financeiro, Finanças e Economia</li>
-<li>⚡ Graduando de Engenharia de Energia na <a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a></li>
+<li>⚡ Graduando de Ciência da Computação na <a href="https://www.unisinos.br">Unisinos</a></li>
 <li>📝 Como você pode me achar:<div>
   <a href="https://www.youtube.com/channel/UCfDr-lbUKXdlYat9qZHzR1g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andrestammm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
